@@ -122,13 +122,8 @@
 - Webhook 수신을 통한 결제 자동 처리
 - 월별/연도별 후원 통계 및 내역 조회 API 구현
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jang-huiju&show_icons=true&theme=default&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jang-huiju&layout=compact&theme=default&hide_border=true)
 
