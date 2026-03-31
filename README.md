@@ -2,9 +2,6 @@
 
 > 끊임없이 배우고, 직접 만들며 성장하는 백엔드 개발자입니다.
 
-[![Velog](https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=velog&logoColor=white)](여기에_블로그_주소)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jang-huiju)
-
 ---
 
 ## ✨ Skills
